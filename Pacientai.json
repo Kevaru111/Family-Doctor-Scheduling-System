@@ -1,0 +1,104 @@
+[
+  {
+    "vardas": "Jonas",
+    "pavarde": "Jonaitis",
+    "asmens_kodas": "38511250144",
+    "istorija": [],
+    "simptomai": "Nugaros skausmas"
+  },
+  {
+    "vardas": "Petras",
+    "pavarde": "Petraitis",
+    "asmens_kodas": "65512202200",
+    "istorija": [
+      {
+        "data": "2025-11-15 00:07",
+        "simptomai": "Kosulys",
+        "diagnoze": "sinusitas"
+      },
+      {
+        "data": "2025-11-15 00:13",
+        "simptomai": "Kosulys",
+        "diagnoze": "tuberkulioze"
+      }
+    ],
+    "simptomai": "Kosulys"
+  },
+  {
+    "vardas": "Ona",
+    "pavarde": "Onaitė",
+    "asmens_kodas": "55512202200",
+    "istorija": [],
+    "simptomai": "Sloga"
+  },
+  {
+    "vardas": "Antanas",
+    "pavarde": "Antanaitis",
+    "asmens_kodas": "38511250143",
+    "istorija": [],
+    "simptomai": "Pilvo skausmas"
+  },
+  {
+    "vardas": "Marija",
+    "pavarde": "Marijaitė",
+    "asmens_kodas": "45512202201",
+    "istorija": [],
+    "simptomai": "Nervingumas"
+  },
+  {
+    "vardas": "Kazys",
+    "pavarde": "Kaziukaitis",
+    "asmens_kodas": "45512202202",
+    "istorija": [],
+    "simptomai": "Alergija"
+  },
+  {
+    "vardas": "Janina",
+    "pavarde": "Janinaitė",
+    "asmens_kodas": "48501120133",
+    "istorija": [],
+    "simptomai": "Nuovargis"
+  },
+  {
+    "vardas": "Vytautas",
+    "pavarde": "Vytautaitis",
+    "asmens_kodas": "38001010101",
+    "istorija": [],
+    "simptomai": "Dusulys"
+  },
+  {
+    "vardas": "Rasa",
+    "pavarde": "Rasaitė",
+    "asmens_kodas": "48505050505",
+    "istorija": [],
+    "simptomai": "Galvos svaigimas"
+  },
+  {
+    "vardas": "Darius",
+    "pavarde": "Dariukaitis",
+    "asmens_kodas": "37707070707",
+    "istorija": [
+      {
+        "data": "2025-11-15 00:07",
+        "simptomai": "Pilvo skausmas",
+        "diagnoze": "gangrena"
+      },
+      {
+        "data": "2025-11-15 00:13",
+        "simptomai": "Pilvo skausmas",
+        "diagnoze": "Intoksikacija"
+      },
+      {
+        "data": "2025-11-15 00:30",
+        "simptomai": "Pilvo skausmas",
+        "diagnoze": "suvalgė skalbimo tabletę"
+      },
+      {
+        "data": "2025-11-20 22:22",
+        "simptomai": "Pilvo skausmas",
+        "diagnoze": "skauda pilva"
+      }
+    ],
+    "simptomai": "Pilvo skausmas"
+  }
+]
